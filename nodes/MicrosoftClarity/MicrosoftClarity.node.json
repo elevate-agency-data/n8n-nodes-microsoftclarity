@@ -1,0 +1,20 @@
+{
+  "node": "n8n-nodes-microsoftclarity.MicrosoftClarity",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Microsoft Clarity"
+  ],
+  "resources": {
+    "credentialDocumentation": [
+      {
+        "url": "https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-data-export-api"
+      }
+    ],
+    "primaryDocumentation": [
+      {
+        "url": "https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-data-export-api"
+      }
+    ]
+  }
+}
